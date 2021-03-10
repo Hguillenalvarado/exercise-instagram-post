@@ -1,0 +1,63 @@
+body{
+    background: gray;
+}
+
+.post{
+    background: white;
+    width: 500px;
+    height: 600px;
+    margin: auto;
+    
+}
+
+#header{
+    display: flex;
+    width: 500px;
+    height: 50px;
+    padding: 10px;
+    
+}
+
+div #header div #menu{
+    margin-left: 300px;
+
+}
+
+
+
+.imagen #cerro{
+    width: 500px;
+    height: 300px;
+    
+}
+
+#pie{
+    display: flex;
+    width: 500px;
+    height: 50px;
+    
+}
+
+div #pie div #iconderecho{
+    margin-left: 300px;
+
+}
+
+img{
+    width: 40px;
+    height: 40px;
+}
+
+
+#p1{
+    width: 500px;
+    height: 50px;
+    padding: 10px;
+}
+
+#p2{
+    width: 500px;
+    height: 100px;
+    padding: 10px;
+}
+
